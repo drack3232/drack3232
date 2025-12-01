@@ -19,24 +19,23 @@
 
 <div align="center">
   <h3>🛠 Мій Арсенал</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  
 </div>
 
----
+
 
 <div align="center">
   <h3>📊 Статистика GitHub</h3>
   <br>
   <p align="center">
-    <a href="https://github.com/your-username">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
-      <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+    <a href="https://github.com/drack3232">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drack3232&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+      <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
     </a>
   </p>
   
