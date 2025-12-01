@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <h3>🛠 Мій Арсенал</h3>
+  <h3>🛠 Lunguage</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
@@ -32,14 +32,16 @@
 <div align="center">
   <h3>📊 Статистика GitHub</h3>
   <br>
-<p align="center">
+  <p align="center">
     <a href="https://github.com/drack3232">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drack3232&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
-      <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=drack3232&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
     </a>
   </p>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&bg_color=1a1b27" alt="github streak" style="width: 93%;"/>
+  <a href="https://github.com/drack3232">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drack3232&theme=radical&hide_border=true&bg_color=1a1b27" alt="github streak" style="width: 90%;" />
+  </a>
 </div>
 
 <br/>
