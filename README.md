@@ -32,7 +32,7 @@
 <div align="center">
   <h3>📊 Статистика GitHub</h3>
   <br>
-  <p align="center">
+<p align="center">
     <a href="https://github.com/drack3232">
       <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drack3232&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
       <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
