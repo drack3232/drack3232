@@ -27,7 +27,8 @@
       <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drack3232&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" />
       <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" />
       <br/>
-      <p>My music</p>
+      
+      <h3>My music</h3>
 <a href="https://last.fm/user/ArtemSenuv">
     <img src="https://lastfm-recently-played.vercel.app/api?user=ArtemSenuv&theme=radical&count=1&width=600" alt="Music Info" />
   </a>
