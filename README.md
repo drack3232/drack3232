@@ -10,7 +10,7 @@
   <br/>
 
   <a href="https://last.fm/user/ArtemSenuv">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=ArtemSenuv&theme=radical&count=1&width=300" alt="Music Info" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=ArtemSenuv&theme=radical&count=1&width=600" alt="Music Info" />
   </a>
 </div>
 
