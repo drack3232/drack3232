@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./photo_2025-12-01_12-55-01.jpg" width="80%" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
+  <img src="./photo_2025-12-01_12-55-01.jpg" width="120%" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
 </div>
 
 <br/>
