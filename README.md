@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./toj1.jpg" width="80%" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
+  <img src="./toj1.jpg" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
   
   <br/><br/>
 
@@ -8,8 +8,6 @@
   </a>
 
   <br/>
-
-  
 </div>
 
 <br/>
@@ -29,20 +27,18 @@
       <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drack3232&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" />
       <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" />
       <br/>
+      <h>My music</h>
 <a href="https://last.fm/user/ArtemSenuv">
     <img src="https://lastfm-recently-played.vercel.app/api?user=ArtemSenuv&theme=radical&count=1&width=600" alt="Music Info" />
   </a>
     </a>
-    
-    
-  </div>
+
+</div>
 
   <br/>
-
   <img src="https://komarev.com/ghpvc/?username=drack3232&style=flat-square&color=blue" alt="Profile Views"/>
   
   <br/><br/>
-
   <h3>📫 Connect</h3>
   <a href="https://t.me/drack323">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
