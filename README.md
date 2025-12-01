@@ -30,11 +30,11 @@
     <a href="https://github.com/drack3232">
       <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drack3232&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" />
       <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" />
+      <br/>
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=drack3232&theme=radical&hide_border=true&bg_color=1a1b27](https://github-readme-streak-stats.herokuapp.com/?user=drack3232&theme=radical&hide_border=true&bg_color=1a1b27)" alt="github streak" style="width: 100%;" />
     </a>
     
-    <br/>
     
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drack3232&theme=radical&hide_border=true&bg_color=1a1b27" alt="github streak" />
   </div>
 
   <br/>
