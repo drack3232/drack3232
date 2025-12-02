@@ -4,7 +4,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=Console.WriteLine(%22Hello+World!%22);Coding+with+Passion;Building+Future+Tech; Coffe+break;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=Console.WriteLine(%22Hello+World!%22);Coding+with+Passion;Building+Future+Tech;" alt="Typing SVG" />
   </a>
 </div>
 
