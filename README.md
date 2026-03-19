@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./toji.jpg" width="85%" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
+  <img src="./toji.png" width="85%" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
   
   <br/><br/>
 
