@@ -1,41 +1,64 @@
-<div align="center">
-  <img src="./toji.gif" width="85%" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
-  
-  <br/><br/>
+<h1 align="center">Hi there, I'm Artem 👋</h1>
+<h3 align="center">Full-Stack Developer | Building things with JS & Java</h3>
 
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=Console.WriteLine(%22Hello+World!%22);Coding+with+Passion;Building+Future+Tech;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello!%22);Console.WriteLine(%22Coding+with+Passion%22);Building+Future+Tech;" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently working on **[Insert your current project/focus here]**
+- 🌱 Currently learning **[Insert what you are learning, e.g., Microservices, Next.js]**
+- 💬 Ask me about **Java, JavaScript, React**
+- 📫 Reach me at: **[artemsenuv@gmail.com](mailto:artemsenuv@gmail.com)**
+
+<br/>
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,git,docker,html,css,linux&theme=dark&perline=10" alt="Tech Stack" />
   </a>
 </div>
 
 <br/>
 
+### 📊 GitHub Analytics
+
 <div align="center">
-  
-  <h3>🚀 My Stack and Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,react,nodejs,git,docker&theme=dark" />
-  </a>
-
-  <br/><br/>
-
-  <h3>📊 GitHub Stats</h3>
   <a href="https://github.com/drack3232">
-    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drack3232&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" alt="Stats" />
-    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" alt="Langs" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=drack3232&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
   </a>
+</div>
 
-  <br/><br/>
-  
-  <h3>🎧 My Music</h3>
+<br/>
+
+### 🎧 What I'm Listening To
+
+<div align="center">
   <a href="https://last.fm/user/ArtemSenuv">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=ArtemSenuv&theme=radical&count=1&width=600" alt="Music Info" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=ArtemSenuv&theme=radical&count=1&width=400" alt="Last.fm Music" />
   </a>
+</div>
 
-  <br/><br/>
+<br/>
 
-  <h3>📫 Connect</h3>
+### 📫 Let's Connect
+
+<div align="center">
   <a href="https://t.me/drack323">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="mailto:artemsenuv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- Якщо є LinkedIn, розкоментуй і додай посилання -->
+  <!-- <a href="ТВІЙ_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
 </div>
