@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Твоя фірмова гіфка з Тоджі в професійній обгортці -->
   <img src="./toji.gif" width="75%" style="border-radius: 16px; border: 2px solid #30363d; box-shadow: 0px 8px 30px rgba(123, 97, 255, 0.2); margin-bottom: 20px;">
   
   <br/>
@@ -12,9 +11,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **[Твій поточний проект]** (наприклад: *PetProject #3 / LNUDeadlineTracker*)
-- 🌱 Currently learning **[Що зараз вивчаєш]** (наприклад: *React, Spring, Docker*)
-- 💬 Ask me about **Java, JavaScript, C#**
+- 🔭 Currently working on **[FitTracker]**
+- 🌱 Currently learning **[Java, Spring, C#]**
+- 💬 Ask me about **Java, C#**
 - 📫 Reach me at: **[artemsenuv@gmail.com](mailto:artemsenuv@gmail.com)**
 
 <br/>
@@ -33,7 +32,6 @@
 
 <div align="center">
   <a href="https://github.com/drack3232">
-    <!-- Виправлене офіційне API без помилок -->
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=drack3232&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drack3232&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
   </a>
